@@ -1,0 +1,14 @@
+################ English language ##################
+[en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+
+
+################ Tiếng Việt ##################
+[vi]
+languageName = "Vietnamese"
+languageCode = "vi"
+contentDir = "content/vietnamese"
+weight = 1
